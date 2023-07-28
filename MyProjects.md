@@ -1,3 +1,6 @@
 # Pyth
-I have started with my Python programing, and these are some of the beginners code that I have worked onto ! 
-I have recently developed a mini game - Rock Paper Scissors - a fun way to deal with your Boredum 
+- 👋 Hi, I’m @Athrvvv !
+- 👀 I’m interested in Fullstack Development.
+- 🌱 I’m currently learning JAVA/Python.
+- 💞️ I’m looking to collaborate on any fun to do web designings and logic driven projects.
+- 📫 How to reach me on https://www.instagram.com/athrvvv__/  
